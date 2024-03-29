@@ -1,0 +1,15 @@
+# Carpeta node_modules generada por npm
+node_modules/
+
+# Carpeta dist generada por webpack
+dist/
+
+# Archivo de configuración personal de npm
+.npmrc
+
+# Archivo de configuración local de webpack
+webpack.config.local.js
+
+# Otros archivos generados localmente
+.DS_Store
+Thumbs.db
