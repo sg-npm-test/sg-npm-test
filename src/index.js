@@ -1,5 +1,3 @@
 // index.js
-import InputText from './components/InputText';
-import InputDate from './components/InputDate';
-
-export { InputText, InputDate };
+export { InputText } from './components/InputText';
+export { InputDate } from './components/InputDate';
